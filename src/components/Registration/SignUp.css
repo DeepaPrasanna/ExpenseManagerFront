@@ -1,0 +1,19 @@
+.heading{
+    font-size: 1.5rem;
+}
+.label{
+
+display: flex;
+flex-direction:column;
+/* justify-content: flex-start; */
+align-items: flex-start;
+
+}
+.button{
+
+display: flex;
+flex-direction:column;
+/* justify-content: flex-start; */
+align-items: flex-end;
+
+}
